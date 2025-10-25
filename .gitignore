@@ -1,7 +1,7 @@
 *
 
 !/.gitignore
-!/AndroidApp/app/src/main/java/com/example/hw3/MainActivity.java
+!/AndroidApp/app/src/main/java/org/pythorch/demo/MainActivity.java
 !/AndroidApp/app/src/main/res/layout/activity_main.xml
 !/ServerApp/serve.py
 !/ServerApp/detect.py
